@@ -29,7 +29,7 @@
             </div>
 
             <div class="form-group">
-                <label for="precio">Descripción</label>
+                <label for="precio">Precio</label>
                 <input type="number" class="form-control form-control-lg" id="precio" name="precio" placeholder="Precio" required>
             </div>
 
