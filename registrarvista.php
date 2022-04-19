@@ -38,7 +38,7 @@
      </div>
     </form>
     <?php
-        include("login/registro.php");
+        include("php/registro.php");
     ?>
 </body>
 </html>

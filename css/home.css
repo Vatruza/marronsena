@@ -1,0 +1,12 @@
+.publicidad-wrapper {
+    padding: 0;
+}
+
+.publicidad-tittle {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+
+.imagen-publicidad {
+    width: 100% !important;
+}
